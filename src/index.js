@@ -4,6 +4,7 @@ import "./index.css";
 // import App from './App';
 import * as serviceWorker from "./serviceWorker";
 import Header from "./components/Header";
+import "./styles/app.scss"
 
 ReactDOM.render(<Header />, document.getElementById("root"));
 
